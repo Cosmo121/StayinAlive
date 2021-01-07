@@ -24,7 +24,7 @@ _______
 ## Usage
 Change sleepTime to increase/decrease the stick man's speed.
 ```PowerShell
-$sleepTime
+$sleepTime = 2
 ```
 
 ## Contributing
